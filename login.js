@@ -1,3 +1,4 @@
+console.lof("Login JS UPDATED LOADED");
 let password= document.querySelector("#password");
 let showBtn= document.querySelector("#shw-button");
 let loginBtn = document.querySelector("#login-btn");
